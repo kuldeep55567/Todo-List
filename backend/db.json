@@ -1,0 +1,50 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Kamla",
+      "email": "kamla@gmail.com",
+      "profile": "https://www.w3schools.com/w3images/avatar2.png",
+      "password": "123456",
+      "todos": 0,
+      "role": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Vimla",
+      "email": "vimla@gmail.com",
+      "profile": "https://www.w3schools.com/w3images/avatar2.png",
+      "password": "admin123",
+      "todos": 0,
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "email": "kuldeep@gmail.com",
+      "profile": "https://www.w3schools.com/w3images/avatar2.png",
+      "password": "123456",
+      "name": "Kuldeep",
+      "todos": 0,
+      "role": "user"
+    },
+    {
+      "id": 4,
+      "email": "kuldeep@gmail.com",
+      "profile": "https://www.w3schools.com/w3images/avatar2.png",
+      "password": "123456",
+      "name": "Kajal",
+      "todos": 0,
+      "role": "user"
+    },
+    {
+      "id": 5,
+      "email": "kuldeep@gmail.com",
+      "profile": "https://www.w3schools.com/w3images/avatar2.png",
+      "password": "12345678",
+      "name": "kanha",
+      "todos": 0,
+      "role": "user"
+    }
+  ],
+  "todo": []
+}
